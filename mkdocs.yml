@@ -81,7 +81,7 @@ nav:
     - Report Issues: https://github.com/v1zhu/vivian_package/issues
     - Examples:
         - examples/intro.ipynb
-        - examples/intro.ipynb
+        - examples/map.ipynb
     - API Reference:
           - vivian_package module: vivian_package.md
           - common module: common.md
