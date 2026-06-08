@@ -2,7 +2,6 @@
 
 """Tests for `vivian_package` package."""
 
-
 import unittest
 
 from vivian_package import vivian_package
