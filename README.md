@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://v1zhu.github.io/vivian_package
-    
+
 
 ## Features
 
